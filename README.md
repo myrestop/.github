@@ -1,9 +1,3 @@
-# About us
-
-Last updated January 01, 2024
-
-![universe](/static/images/universe.webp){width=100%}
-
 ### Studio Introduction
 
 MyRest is a personal team established in 2023 from mainland China that focuses on the development of efficiency tools. We adhere to the concept of user experience and freedom and openness to design and develop software, to help people complete their work easily and efficiently.
@@ -19,9 +13,3 @@ We love coding, love working with new technologies, love playing various tools, 
 We hope to build software that is highly customizable by users, and users have complete control over their data, without any privacy concerns, because the data is encrypted and stored locally.
 
 We hope to build software that can help users eliminate tedious steps in their work, free up more time, and improve efficiency.
-
-### Contact Information
-
-WeChat: myrest_pan
-
-Email: [mrpan@myrest.top](mailto:mrpan@myrest.top)
