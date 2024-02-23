@@ -4,7 +4,7 @@ MyRest is a personal team established in 2023 from mainland China that focuses o
 
 We are still learning, innovating and iterating to make products simpler, easier to use, more intelligent, making the user experience smoother and more enjoyable, and taking the work efficiency to a higher level.
 
-If you are interested in our products and services, or you have any problems, please feel free to contact us, you can get our [contact information](#contact-information) on the below.
+If you are interested in our products and services, or you have any problems, please feel free to contact us.
 
 ### Driven and Vision
 
